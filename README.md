@@ -1,6 +1,8 @@
-# React Test
+# Punderful
 
-This project is a chance for us to have a try at learning react.js a shiney new js framework.
+Everyone loves puns, why not build up a universal database of silly puns?!
+
+The first draft is a purely client side version built with react.js
 
 ## Getting started
 
